@@ -1,0 +1,9 @@
+server:
+  port: 8761
+eureka:
+  instance:
+    ip-address: localhost
+    appname: eurekaserver
+  client:
+    register-with-eureka: true
+
