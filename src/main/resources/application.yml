@@ -5,5 +5,5 @@ eureka:
     ip-address: localhost
     appname: eurekaserver
   client:
-    register-with-eureka: true
+    register-with-eureka: false
 
